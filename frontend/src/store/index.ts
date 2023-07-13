@@ -14,7 +14,7 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    githubUsername: "CodeUnicornMartha",
+    githubUsername: "ThiMa25",
     imageList: [],
   },
   mutations: {
