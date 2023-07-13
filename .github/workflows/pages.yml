@@ -84,7 +84,7 @@ jobs:
       - build-documentation
     environment:
       name: pages
-      url: https://${{ github.repository_owner }}.github.io/anyonecancode
+      url: https://${{ github.repository_owner }}.github.io/practicecode-T1
 
     if: github.ref == 'refs/heads/main'
 
